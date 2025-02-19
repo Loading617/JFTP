@@ -1,2 +1,2 @@
 # JFTP
-Bluetooth FTP Server for Windows
+FTP Server for Windows
